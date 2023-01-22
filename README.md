@@ -2,6 +2,7 @@ In Java, relational operators are used to compare two values and determine the r
 The following relational operators are available in Java:
 
 1. < (less than) = This checks whether the first operand is less than the second operand or not.
+
         eg=     int a = 10;
                 int b = 20;
                 if (a < b) {
@@ -10,6 +11,7 @@ The following relational operators are available in Java:
 
 
 2. > (greater than) = This checks whether the first operand is greater than the second operand or not.
+
         eg=     int a = 30;
                 int b = 20;
                 if (a > b) {
@@ -18,6 +20,7 @@ The following relational operators are available in Java:
 
 
 3. <= (less than or equal to) = This checks whether the first operand is less than or equal to the second operand or not.
+
         eg=     int a = 20;
                  int b = 20;
                  if (a <= b) {
@@ -26,6 +29,7 @@ The following relational operators are available in Java:
 
 
 4. = (greater than or equal to) = This checks whether the first operand is greater than or equal to the second operand or not.
+
          eg=     int a = 30; 
                  int b = 20;
                  if (a >= b) {
